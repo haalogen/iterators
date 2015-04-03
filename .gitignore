@@ -11,4 +11,4 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 
-.[oa]
+*.[oa]
